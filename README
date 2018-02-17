@@ -4,6 +4,6 @@ This repository includes the result of work on the project about Sudoku. On this
 
   - Depth-first Search
   - Iterative deepening depth-first search
-  - Best-first searach
+  - Best-first search
 
 To see report and results of the statistical analysis you can run the .ipynb file on the repository.
