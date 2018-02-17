@@ -1,0 +1,9 @@
+# Python based Sudoku Solver / Algorithm Comparison
+
+This repository includes the result of work on the project about Sudoku. On this project following algorithms compared to find most efficient one.
+
+  - Depth-first Search
+  - Iterative deepening depth-first search
+  - Best-first searach
+
+To see report and results of the statistical analysis you can run the .ipynb file on the repository.
